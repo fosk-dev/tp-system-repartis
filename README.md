@@ -146,5 +146,10 @@ Pour lancer plusieurs clients à la fois vous pouvez utiliser le script test.sh
 ```
 
 # Bugs
-Pour les éventuels problèmes veuillez contacter assogba.emery@gmail.com ou faire
+Pour les éventuels problèmes veuillez contacter assogba.emery@gmail.com/work.fosk@gmail.com ou faire
 un pull request.
+
+## Contributeurs
+
+work.fosk@gmail.com
+
