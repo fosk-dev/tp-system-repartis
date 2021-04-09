@@ -1,0 +1,11 @@
+/log_10_clients*
+/jdk_test
+/old_log
+/*.o
+/*.a
+/server
+/client
+/run.txt
+/test.py
+/enonce.md
+/*.tar.gz
