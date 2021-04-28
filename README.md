@@ -153,8 +153,8 @@ Après exection des versions du server et du client, nous pouvons generer des gr
 ```
 `sd_file` pour les logs d'envois
 `rcv_file` pour les de receptions 
-`forWho` pour qui la generation doit être faite <server ou client>
-`etat` le mode du server ou du client <f ou s>                      
+`forWho` pour qui la generation doit être faite (server ou client)
+`etat` le mode du server ou du client (f ou s)                    
 
 # Bugs
 Pour les éventuels problèmes veuillez contacter assogba.emery@gmail.com - work.fosk@gmail.com ou faire
