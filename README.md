@@ -145,6 +145,17 @@ Pour lancer plusieurs clients à la fois vous pouvez utiliser le script test.sh
   ./test.sh 192.168.3.100 4444 4445 <fichier_a_transferer>
 ```
 
+# Generer un graphe de log
+
+Après exection des versions du server et du client, nous pouvons generer des graphes pour analyser les performances du reseau.
+```
+  $ sudo python3 makeGraphes.py <sd_file> <rcv_file> <forWho> <etat>
+```
+`sd_file` pour les logs d'envois
+`rcv_file` pour les de receptions 
+`forWho` pour qui la generation doit être faite <server ou client>
+`etat` le mode du server ou du client <f ou s>                      
+
 # Bugs
 Pour les éventuels problèmes veuillez contacter assogba.emery@gmail.com - work.fosk@gmail.com ou faire
 un pull request.
